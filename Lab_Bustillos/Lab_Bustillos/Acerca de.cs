@@ -21,7 +21,6 @@ namespace Lab_Bustillos
         {
             AyudaP.opcion = 3;
             new AyudaP().Show();
-            Console.WriteLine("Hola Mundo Mario Etzael Francisco Melo");
         }
     }
 }
